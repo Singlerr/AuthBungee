@@ -1,0 +1,6 @@
+url: url
+id: id
+pass: pass
+table: tableName
+msg: Disconnect_Msg(& is available)
+msg_db_error: Disconnect due to db error
